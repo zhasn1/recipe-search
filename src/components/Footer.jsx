@@ -26,7 +26,7 @@ const Footer = () => (
         <Typography variant="h6">
           Made by{" "}
           <a
-            href="https://github.com/Nawlage"
+            href="https://github.com/zhasn1"
             target="_blank"
             rel="noreferrer"
             style={{ color: "white" }}
